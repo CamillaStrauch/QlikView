@@ -1,0 +1,10 @@
+Package: QlikViewDemo
+Type: Package
+Title: QlikView-R integration Demo
+Version: 0.1
+Date: 2015-08-27
+Author: CamS
+Maintainer: helle.strauch@gmail.com
+Description: Contains functions to be used to demo QlikView R integration
+License: GPL
+LazyData: TRUE

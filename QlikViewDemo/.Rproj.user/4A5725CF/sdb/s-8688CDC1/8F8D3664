@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: QlikViewDemo\nType: Package\nTitle: QlikView-R integration Demo\nVersion: 0.1\nDate: 2015-08-27\nAuthor: CamS\nMaintainer: helle.strauch@gmail.com\nDescription: Contains functions to be used to demo QlikView R integration\nLicense: GPL\nLazyData: TRUE\n",
+    "created" : 1440673841633.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2799516615",
+    "id" : "8F8D3664",
+    "lastKnownWriteTime" : 1440674024,
+    "path" : "C:/Users/cams/Desktop/GitHub/QlikView/QlikViewDemo/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "dcf"
+}
